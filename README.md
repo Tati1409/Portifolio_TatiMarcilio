@@ -1,6 +1,6 @@
-# Clone da Netflix 🎬
+# Portifolio_Tatiana 🎬
 
-Este é o meu primeiro projeto publicado no GitHub! Um clone da interface da Netflix, criado com HTML, CSS e JavaScript, com foco em praticar estruturação de páginas, responsividade e efeitos visuais.
+Este é o meu primeiro projeto publicado no GitHub! Meu portifolio com as informações da minha jornada profissional, criado com HTML, CSS e JavaScript, com foco em praticar estruturação de páginas, responsividade e efeitos visuais.
 ## 🔗 Acesse o projeto
 
 Você pode visualizar o projeto online aqui: (https://tati1409.github.io/Portifolio_TatiMarcilio/)
